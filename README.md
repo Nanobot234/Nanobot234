@@ -14,4 +14,10 @@
 
 - :writing_hand: In my free time, I write articles on technology and human behavior and I also love reading. 
 
+---
+Connect With Me
+
+<i class="fa-brands fa-linkedin"></i>
+
+neeed to see this!
 -next time, have a diagram of what to include, also will figure out the socials, and making the gifs
