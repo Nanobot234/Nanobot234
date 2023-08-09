@@ -1,7 +1,9 @@
 
 
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/SlaiZOZAoL0xRoVYhI/giphy.gif" width="480" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </div>
 
 ---
@@ -17,7 +19,13 @@
 ---
 Connect With Me
 
-<i class="fa-brands fa-linkedin"></i>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="icon \| LinkedIn" width="51px"/></a>
 
-neeed to see this!
+
+
+
+
+need to see this!
+
+
 -next time, have a diagram of what to include, also will figure out the socials, and making the gifs
