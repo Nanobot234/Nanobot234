@@ -17,15 +17,16 @@
 - :writing_hand: In my free time, I write articles on technology and human behavior and I also love reading. 
 
 ---
-Connect With Me
-
+### Connect With Me
+<div>
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="icon \| LinkedIn" width="51px"/></a>
 
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="icon \| LinkedIn" width="51px"/></a>
 
+</div
 
-
-
-need to see this!
+---
+### IOS Projects
 
 
 -next time, have a diagram of what to include, also will figure out the socials, and making the gifs
