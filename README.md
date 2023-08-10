@@ -21,11 +21,25 @@
 <div>
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="icon \| LinkedIn" width="51px"/></a>
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="icon \| LinkedIn" width="51px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="icon \| LinkedIn" width="51px"/></a>
 
 </div
 
 ---
+
+## Languages and Technologies
+
+<div>
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/reactjs.svg" alt="icon \| LinkedIn" width="51px"/></a>
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/redux.svg" alt="icon \| LinkedIn" width="51px"/></a>
+
+
+  
+</div>
+---
+
 ### IOS Projects
 
 
