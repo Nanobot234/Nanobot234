@@ -33,14 +33,18 @@
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/reactjs.svg" alt="icon \| LinkedIn" width="51px"/></a>
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/redux.svg" alt="icon \| LinkedIn" width="51px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/redux.svg" alt="icon \| LinkedIn" width="51px"/></a>
 
 
   
 </div>
 ---
 
-### IOS Projects
+### MyPets
+
+![Image Alt Text](https://drive.google.com/file/d/1aM0bGLrwmJQ9Qck-DK1ABvH5iMi3hN6y/)
+
+
 
 
 -next time, have a diagram of what to include, also will figure out the socials, and making the gifs
