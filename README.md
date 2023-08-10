@@ -19,9 +19,9 @@
 ---
 ### Connect With Me
 <div>
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="icon \| LinkedIn" width="51px"/></a>
+<a href="https://www.linkedin.com/in/nana-bonsu/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="icon \| LinkedIn" width="51px"/></a>
 
-<a href="https://www.linkedin.com/in/yushi95/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="icon \| LinkedIn" width="51px"/></a>
+<a href="mailto:Nbonsu2000@gmail.com"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="icon \| LinkedIn" width="51px"/></a>
 
 </div
 
@@ -42,7 +42,7 @@
 
 ### MyPets
 
-<img src="https://github.com/Nanobot234/Nanobot234/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-10%20at%2015.54.42.png" alt="Descriptive Alt Text" width="300" height="600">
+<img src="https://github.com/Nanobot234/Nanobot234/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-10%20at%2015.56.10.png" alt="Descriptive Alt Text" width="300" height="600">
 
 
 
