@@ -1,6 +1,4 @@
 
-
-
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/SlaiZOZAoL0xRoVYhI/giphy.gif" width="480" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -18,31 +16,35 @@
 
 ---
 ### Connect With Me
-<div>
+
 <a href="https://www.linkedin.com/in/nana-bonsu/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="icon \| LinkedIn" width="51px"/></a>
 
 <a href="mailto:Nbonsu2000@gmail.com"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="icon \| LinkedIn" width="51px"/></a>
 
-</div
 
 ---
-
-## Languages and Technologies
-
-<div>
-
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/reactjs.svg" alt="icon \| LinkedIn" width="51px"/></a>
-
-<a href="https://www.linkedin.com/in/yushi95/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/redux.svg" alt="icon \| LinkedIn" width="51px"/></a>
+### Languages and Technologies
 
 
-  
-</div>
+react, redux, xcode , swift, javascript, python, firebase
+
+<img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/reactjs.svg" alt=" react icon" width="51px"/>
+
+<img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/redux.svg" alt="redux icon" width="51px"/>
+
+<img src="https://seeklogo.com/images/X/xcode-logo-D2046A7713-seeklogo.com.png" alt="xcode icon" width="51px"/>
+
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/swift-programming-language-icon.png" alt="xcode icon" width="51px"/>
+
+
+
 ---
 
 ### MyPets
 
 <img src="https://github.com/Nanobot234/Nanobot234/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-10%20at%2015.56.10.png" alt="Descriptive Alt Text" width="300" height="600">
+
 
 
 
