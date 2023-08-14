@@ -26,7 +26,7 @@
 ### Languages and Technologies
 
 
-react, redux, xcode , swift, javascript, python, firebase
+react, redux, Xcode , swift, javascript, python, firebase
 
 <img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/reactjs.svg" alt=" react icon" width="51px"/>
 
@@ -48,16 +48,14 @@ react, redux, xcode , swift, javascript, python, firebase
 
 <img align="left" src="https://github.com/Nanobot234/Nanobot234/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-10%20at%2015.56.10.png" alt="Descriptive Alt Text" width="300" height="600">
 
-<img  align="left" src="https://github.com/Nanobot234/Nanobot234/assets/16675052/f2f53c2a-5271-4a7e-a1c5-23f376296a6a" alt="Descriptive Alt Text" width="300" height="600">
+<img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/f2f53c2a-5271-4a7e-a1c5-23f376296a6a" alt="Descriptive Alt Text" width="300" height="600">
+
+<br style="clear: both;">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="100" height="100">
 
 
 
-### This
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="100" height="50">
-
-
-Check how to put abpove on its own line. And more to do!!
 
 
 
