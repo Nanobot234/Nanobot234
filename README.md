@@ -52,15 +52,33 @@ react, redux, Xcode , swift, javascript, python, firebase
 
 <br style="clear: both;">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="100" height="100">
-
-
-
-
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="200" height="100">
 
 
 ---
 
+### Vendorhub
+
+<p> App to help street vendors grow their businesses by enabling them to advertise products to nearby users. </p>
+
+<img align="left" src="https://github.com/Nanobot234/Nanobot234/assets/16675052/e3ba5c9e-1d03-40f7-af29-adb0a27a12ef" alt="Descriptive Alt Text" width="300" height="600">
+<img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/0cb3f1fd-308e-4bbc-8d3e-ce2919d9dce7" alt="Descriptive Alt Text" width="300" height="600">
 
 
+<br style="clear: both;">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="200" height="100">
+
+
+---
+### Better Sleep
+
+
+
+---
+### BucketList
+
+
+
+
+React projects here!!
