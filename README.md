@@ -45,7 +45,7 @@ react, redux, Xcode , swift, javascript, python, firebase
 
 <p> Edit images of pets online using various image filters.</p>
 
-
+> UIKit, URLSession, Core Graphics, JSONDecoder, Xib
 <img align="left" src="https://github.com/Nanobot234/Nanobot234/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-10%20at%2015.56.10.png" alt="Descriptive Alt Text" width="300" height="600">
 
 <img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/f2f53c2a-5271-4a7e-a1c5-23f376296a6a" alt="Descriptive Alt Text" width="300" height="600">
@@ -61,6 +61,7 @@ react, redux, Xcode , swift, javascript, python, firebase
 
 <p> App to help street vendors grow their businesses by enabling them to advertise products to nearby users. </p>
 
+> UIKit, UserDefaults, Firebase Firestore, Firebase Auth, UICollectionView, UICollectionViewCompositionalLayout,
 <img align="left" src="https://github.com/Nanobot234/Nanobot234/assets/16675052/e3ba5c9e-1d03-40f7-af29-adb0a27a12ef" alt="Descriptive Alt Text" width="300" height="600">
 <img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/0cb3f1fd-308e-4bbc-8d3e-ce2919d9dce7" alt="Descriptive Alt Text" width="300" height="600">
 
