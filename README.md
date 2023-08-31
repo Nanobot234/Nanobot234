@@ -73,7 +73,7 @@ react, redux, Xcode , swift, javascript, python, firebase
 
 
 ---
-### Better Sleep
+## Better Sleep
 
 <p> iOS app that helps people determine the optimal time to sleep based on cups of coffee they drink</p>
 
@@ -89,12 +89,16 @@ react, redux, Xcode , swift, javascript, python, firebase
 ### BucketList
 
 <p>App that allows users to save areas of interest on a map and view nearby places.</p>
-Reduce Gif size!!
 
+ > MapRegion, BiometricAuthentication, Wikipedia API, MVVM
+<img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/22635f0b-bf8c-45cf-9048-18fc4b0bcdd2" alt="Descriptive Alt Text" width="300" height="600">
 
-
-
+---
+# Web Development Projects
 
 React projects here!!
 
+<p>Popular card game. With ability to save high score of user. </p>
 
+
+![EvenOrOdds](https://github.com/Nanobot234/Nanobot234/assets/16675052/2c9279f1-a97e-4bc7-b3a6-9c02cdee3ed9)
