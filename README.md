@@ -69,7 +69,7 @@ react, redux, Xcode , swift, javascript, python, firebase
 
 <br style="clear: both;">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="200" height="100">
+<a href="https://github.com/Nanobot234/VendorHubApp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="200" height="100">
 
 
 ---
