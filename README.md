@@ -17,9 +17,9 @@
 ---
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/nana-bonsu/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="icon \| LinkedIn" width="51px"/></a>
+<a href="https://www.linkedin.com/in/nana-bonsu/"><img align="left" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="icon \| LinkedIn" width="51px"/></a>
 
-<a href="mailto:Nbonsu2000@gmail.com"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="icon \| LinkedIn" width="51px"/></a>
+<a href="mailto:Nbonsu2000@gmail.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" alt="gmail icon" width="51px"/></a>
 
 
 ---
