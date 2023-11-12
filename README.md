@@ -26,7 +26,7 @@
 ### Languages and Technologies
 
 
-react, redux, Xcode , swift, javascript, python, firebase
+react, redux, Xcode, swift, javascript, python, firebase
 
 <img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/reactjs.svg" alt=" react icon" width="51px"/>
 
@@ -54,6 +54,20 @@ react, redux, Xcode , swift, javascript, python, firebase
 
 <a href="https://github.com/Nanobot234/MyPets/tree/main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="200" height="100" href>
 
+---
+
+### HotProspects
+
+<p>Use custom QR codes to quickly save contact information of people met at events</p>
+
+> SwiftUI, AVFoundation, QRCodeGenerator, APNS, EnvironmentObject
+
+<img align="left" src="https://github.com/Nanobot234/Nanobot234/assets/16675052/d92b1910-ed4a-4650-af70-6f7e6d6eb5af" alt="Descriptive Alt Text" width="300" height="600">
+
+<img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/391f3bf7-e92a-4a25-ada0-221d8f4c8f7a" alt="Descriptive Alt Text" width="300" height="600">
+
+
+
 
 ---
 
@@ -62,7 +76,7 @@ react, redux, Xcode , swift, javascript, python, firebase
 <p> App to help street vendors grow their businesses by enabling them to advertise products to nearby users. </p>
 
 > UIKit, UserDefaults, Firebase Firestore, Firebase Auth, UICollectionView, UICollectionViewCompositionalLayout,
-> 
+
 <img align="left" src="https://github.com/Nanobot234/Nanobot234/assets/16675052/e3ba5c9e-1d03-40f7-af29-adb0a27a12ef" alt="Descriptive Alt Text" width="300" height="600">
 <img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/0cb3f1fd-308e-4bbc-8d3e-ce2919d9dce7" alt="Descriptive Alt Text" width="300" height="600">
 
@@ -88,7 +102,8 @@ react, redux, Xcode , swift, javascript, python, firebase
 ---
 ### BucketList
 
-<p>App that allows users to save areas of interest on a map and view nearby places.</p>
+<p>App that allows users to save areas of interest on a ![QRcodeFeature](https://github.com/Nanobot234/Nanobot234/assets/16675052/a7658df8-e7fa-41c7-9633-89d5747ae87f)
+map and view nearby places.</p>
 
  > MapRegion, BiometricAuthentication, Wikipedia API, MVVM
 <img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/22635f0b-bf8c-45cf-9048-18fc4b0bcdd2" alt="Descriptive Alt Text" width="300" height="600">
@@ -101,4 +116,4 @@ React projects here!!
 <p>Popular card game. With ability to save high score of user. </p>
 
 
-![EvenOrOdds](https://github.com/Nanobot234/Nanobot234/assets/16675052/2c9279f1-a97e-4bc7-b3a6-9c02cdee3ed9)
+
