@@ -39,8 +39,8 @@ react, redux, Xcode, swift, javascript, python, firebase
 
 
 
----
 
+<!--
 ### MyPets
 
 <p> Edit images of pets online using various image filters.</p>
@@ -53,18 +53,20 @@ react, redux, Xcode, swift, javascript, python, firebase
 <br style="clear: both;">
 
 <a href="https://github.com/Nanobot234/MyPets/tree/main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="200" height="100" href>
-
+-->
 ---
 
-### HotProspects
+### Prospectta
 
 <p>Use custom QR codes to quickly save contact information of people met at events</p>
 
 > SwiftUI, AVFoundation, QRCodeGenerator, APNS, EnvironmentObject
 
-<img align="left" src="https://github.com/Nanobot234/Nanobot234/assets/16675052/d92b1910-ed4a-4650-af70-6f7e6d6eb5af" alt="Descriptive Alt Text" width="300" height="600">
+<img align="left" src="https://github.com/user-attachments/assets/ecb88da1-5be1-4a70-9640-2dac96bae3f1" alt="Descriptive Alt Text" width="300" height="600">
 
-<img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/391f3bf7-e92a-4a25-ada0-221d8f4c8f7a" alt="Descriptive Alt Text" width="300" height="600">
+<br style="clear: both;">
+
+<img src="https://github.com/user-attachments/assets/9d20c91c-9172-4791-ba15-fa0ceea3cb0b" alt="Descriptive Alt Text" width="300" height="600">
 
 
 
@@ -100,6 +102,9 @@ react, redux, Xcode, swift, javascript, python, firebase
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4sW2Wtrj3Z-2EL6sUy-W_5o0CIt1cxie-xcFK_zJFPco3UTR" alt="Descriptive Alt Text" width="200" height="100">
 
 ---
+
+## Style Pulse
+<!--
 ### BucketList
 
 <p>App that allows users to save areas of interest on a ![QRcodeFeature](https://github.com/Nanobot234/Nanobot234/assets/16675052/a7658df8-e7fa-41c7-9633-89d5747ae87f)
@@ -108,12 +113,7 @@ map and view nearby places.</p>
  > MapRegion, BiometricAuthentication, Wikipedia API, MVVM
 <img src="https://github.com/Nanobot234/Nanobot234/assets/16675052/22635f0b-bf8c-45cf-9048-18fc4b0bcdd2" alt="Descriptive Alt Text" width="300" height="600">
 
----
-# Web Development Projects
-
-React projects here!!
-
-<p>Popular card game. With ability to save high score of user. </p>
+-->
 
 
 
